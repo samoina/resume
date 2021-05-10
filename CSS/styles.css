@@ -1,0 +1,32 @@
+.section {
+  font-size: 20px;
+  font-style: italic;
+  color: blue;
+  text-transform: uppercase;
+}
+
+.contact {
+  font: italic;
+  color: darkgoldenrod;
+}
+
+.phone {
+  font-family:fantasy;
+  color: red;
+  font: bolder;
+}
+
+.footer {
+  height: 50px;
+  width: 100%;
+  background-color: #ffcccc;  
+  border-radius: 5px;
+}
+
+.name {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
